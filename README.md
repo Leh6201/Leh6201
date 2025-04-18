@@ -1,7 +1,42 @@
-### Olá! Eu sou a Leticia Corain 👋
+### Oi! Eu sou a Leh 👋
 
-- 🌱 Eu estou estudando Python
-- 👯‍♀️ Contate-me: leticiacorain3@gmail.com
+💻 Estudando **Python** e **Inteligência Artificial**  
+📚 Faço cursos na [Alura](https://www.alura.com.br)  
+📁 Aqui no GitHub compartilho meus projetos e aprendizados  
+🚀 Em busca da minha primeira oportunidade na área de tecnologia!  
+🏐 Amo jogar vôlei nas horas vagas
+
+---
+
+### 🚀 Tecnologias que estou aprendendo:
+
+- Python 🐍  
+- Lógica de Programação 💡  
+- Bibliotecas: Pandas, NumPy, Scikit-Learn  
+- Git & GitHub
+
+---
+
+### 📌 Projetinhos que você pode ver por aqui:
+
+- Calculadora de IMC  
+- To-Do List no terminal  
+- Jogo de Adivinhação  
+
+---
+
+### 🤝 Conecte-se comigo:
+
+<a href="https://www.linkedin.com/in/leticia-corain-6198bb23b/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="30" style="vertical-align:middle; margin-right:10px;">
+</a>
+
+<a href="https://github.com/Leh6201" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30" style="vertical-align:middle; margin-right:10px;">
+</a>
+
+---
+> _“Aprendizado constante é o meu superpoder!”_ ✨
 
 </br>
 
