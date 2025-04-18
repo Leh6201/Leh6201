@@ -15,8 +15,6 @@
 - Bibliotecas: Pandas, NumPy, Scikit-Learn  
 - Git & GitHub
 
----
-
 ### 📌 Projetinhos que você pode ver por aqui:
 
 - Calculadora de IMC  
@@ -24,6 +22,9 @@
 - Jogo de Adivinhação  
 
 ---
+
+![Descrição do GIF](gatinho%20fofo.gif)
+
 
 ### 🤝 Conecte-se comigo:
 
