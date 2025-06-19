@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Leh 👋
 
 💻 Estudando **Python** e **Inteligência Artificial**  
-📚 Faço cursos na [Alura](https://www.alura.com.br)  
+📚 Faço cursos na [Alura](https://www.alura.com.br) e estou cursando Análise e Desenvolvimento de Sistemas na USF
 📁 Aqui no GitHub compartilho meus projetos e aprendizados  
 🚀 Em busca da minha primeira oportunidade na área de tecnologia!  
 🏐 Amo jogar vôlei nas horas vagas
