@@ -16,12 +16,10 @@
 - Lógica de Programação 💡  
 - Bibliotecas: Pandas, NumPy, Scikit-Learn  
 - Git & GitHub
-
-### 📌 Projetinhos que você pode ver por aqui:
-
-- Calculadora de IMC  
-- To-Do List no terminal  
-- Jogo de Adivinhação  
+- Análise de dados
+- Power BI
+- IA
+- Machine Learning
 
 ---
 
