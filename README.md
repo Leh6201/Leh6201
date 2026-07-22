@@ -1,11 +1,10 @@
-### Oi! Eu sou a Leh 👋
 
-💻 Estudando Python e Inteligência Artificial  
-📚 Faço cursos na Alura  
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas na USF  
-📁 Aqui no GitHub compartilho meus projetos e aprendizados  
-🚀 Em busca da minha primeira oportunidade na área de tecnologia!  
-🏐 Amo jogar vôlei nas horas vagas
+### Hi! I'm Leticia Corain 👋
+
+💻 Building practical projects in Python, Java and C# while studying Systems Analysis and Development (USF)
+📚 Applying what I learn in Python, SQL, Data Analysis and AI through courses (Alura, Asimov Academy) and real projects
+📁 Check out my pinned projects below
+🏐 I love playing volleyball in my free time
 
 
 ---
