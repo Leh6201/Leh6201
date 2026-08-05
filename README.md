@@ -1,27 +1,80 @@
 
-### Hi, I'm Leticia Corain 👋
+# Hi, I'm Leticia Corain 👋
 
-Python Developer in Training focused on Artificial Intelligence, Machine Learning and Automation.
+### Python Developer in Training | Artificial Intelligence | Machine Learning | Automation
 
-I enjoy building intelligent solutions that solve real-world problems using Python.
+I build Python applications that use Artificial Intelligence and automation to solve real-world problems.
 
-Tech Stack
-* Python • SQL • Git • Pandas • NumPy • Scikit-learn 
-
+My goal is to create intelligent solutions that simplify repetitive tasks, organize information and help people make better decisions through technology.
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo:
+## 🚀 What you'll find here
 
-- Python 🐍  
-- Lógica de Programação 💡
-- Bibliotecas: Pandas, NumPy, Scikit-Learn  
-- Git & GitHub
-- Análise de dados
-- Power BI
-- IA
+On this GitHub, you'll find projects focused on:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🐍 Python Development
+- ⚙️ Automation
+- 📊 Data Analysis
+- 📄 Intelligent Document Processing
+
+Each project represents a step in my journey of transforming ideas into practical software.
+
+---
+
+## 💼 Featured Projects
+
+📂 *Smart File Organizer*
+> Automatically organizes files and folders using Python.
+
+🤖 *Restaurant Express API*
+> Object-oriented Python application with API concepts.
+
+📊 *More AI projects coming soon...*
+> Building intelligent solutions for real business problems.
+
+---
+
+## 🛠️ Tech Stack
+
+## 🧠 Artificial Intelligence
 - Machine Learning
-- LLM
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Scikit-learn
+
+## ⚙️ Intelligent Automation
+- Python Automation
+- Workflow Automation (n8n)
+
+## 📊 Data
+- SQL
+- Pandas
+- NumPy
+
+## 💻 Development
+- Python
+- JavaScript
+
+## 🔧 Development Tools
+- Git
+- GitHub
+
+## 🎯 Areas of Interest
+- AI-powered Applications
+- Intelligent Automation
+- Document Intelligence
+- AI Assistants
+- Business Productivity
+
+## 🚀 Currently Exploring
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- CrewAI
 
 ---
 
