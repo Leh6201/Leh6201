@@ -1,10 +1,12 @@
 
-### Hi! I'm Leticia Corain 👋
+### Hi, I'm Leticia Corain 👋
 
-💻 Building practical projects in Python, Java and C# while studying Systems Analysis and Development (USF)  
-📚 Applying what I learn in Python, SQL, Data Analysis and AI through courses (Alura, Asimov Academy) and real projects  
-📁 Check out my pinned projects below  
-🏐 I love playing volleyball in my free time
+Python Developer in Training focused on Artificial Intelligence, Machine Learning and Automation.
+
+I enjoy building intelligent solutions that solve real-world problems using Python.
+
+Tech Stack
+* Python • SQL • Git • Pandas • NumPy • Scikit-learn 
 
 
 ---
@@ -12,13 +14,14 @@
 ### 🚀 Tecnologias que estou aprendendo:
 
 - Python 🐍  
-- Lógica de Programação 💡  
+- Lógica de Programação 💡
 - Bibliotecas: Pandas, NumPy, Scikit-Learn  
 - Git & GitHub
 - Análise de dados
 - Power BI
 - IA
 - Machine Learning
+- LLM
 
 ---
 
